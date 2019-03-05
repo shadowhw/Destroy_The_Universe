@@ -1,0 +1,15 @@
+E:\source\c#\My_Games\My_Games\bin\Debug\My_Games.exe.config
+E:\source\c#\My_Games\My_Games\bin\Debug\My_Games.exe
+E:\source\c#\My_Games\My_Games\bin\Debug\My_Games.pdb
+E:\source\c#\My_Games\My_Games\obj\Debug\DTU.Form_Main.resources
+E:\source\c#\My_Games\My_Games\obj\Debug\My_Games.Properties.Resources.resources
+E:\source\c#\My_Games\My_Games\obj\Debug\DTU.csproj.GenerateResource.cache
+E:\source\c#\My_Games\My_Games\obj\Debug\DTU.csproj.CoreCompileInputs.cache
+E:\source\c#\My_Games\My_Games\obj\Debug\My_Games.exe
+E:\source\c#\My_Games\My_Games\obj\Debug\My_Games.pdb
+E:\source\c#\My_Games\My_Games\bin\Debug\Interop.WMPLib.dll
+E:\source\c#\My_Games\My_Games\bin\Debug\AxInterop.WMPLib.dll
+E:\source\c#\My_Games\My_Games\obj\Debug\Interop.WMPLib.dll
+E:\source\c#\My_Games\My_Games\obj\Debug\AxInterop.WMPLib.dll
+E:\source\c#\My_Games\My_Games\obj\Debug\DTU.csproj.ResolveComReference.cache
+E:\source\c#\My_Games\My_Games\obj\Debug\DTU.csprojAssemblyReference.cache
